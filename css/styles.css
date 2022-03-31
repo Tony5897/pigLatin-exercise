@@ -1,0 +1,8 @@
+/*------Basic stylesheet template------*/
+.my-class {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: 
+  box-sizing: border-box;
+}
